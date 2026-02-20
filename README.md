@@ -1,8 +1,10 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Halit Kösemen
 
-**`Digital Craftsman`**
+**`Mechatronics Engineer`**
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (680k+ subscribers).
+I'm a Embedded Systems Engineer focused on STM32, low-level drivers, and real-time systems. 
+Experienced in bare-metal C/C++, peripheral drivers (SPI, I2C, USART), control theory basics, and datasheet-driven development.
+Exploring ROS2, Gazebo simulation, and embedded Linux.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
