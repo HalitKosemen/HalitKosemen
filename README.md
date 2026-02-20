@@ -8,16 +8,13 @@ Exploring ROS2, Gazebo simulation, and embedded Linux.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/halit-k%C3%B6semen-62b9992b4/">
-    <img alt="LinkedIn" title="Connect on LinkedIn"
-         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/HalitKosemen">
-    <img alt="GitHub" title="Follow me on GitHub"
-         src="https://custom-icon-badges.demolab.com/badge/GitHub-FOLLOW-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@ProjecTechx">
-    <img alt="YouTube" title="Subscribe to my YouTube channel"
-         src="https://custom-icon-badges.demolab.com/badge/YouTube-SUBSCRIBE-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
