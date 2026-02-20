@@ -8,13 +8,15 @@ Exploring ROS2, Gazebo simulation, and embedded Linux.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/halit-k%C3%B6semen-62b9992b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/HalitKosemen">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img height="32" src="https://cdn.simpleicons.org/github/ffffff" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@ProjecTechx">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img height="32" src="https://cdn.simpleicons.org/youtube/FF0000" />
   </a>
 </p>
 
