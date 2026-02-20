@@ -1,4 +1,4 @@
-# 🏄‍♂️ Halit Kösemen
+# 🖥️ Halit Kösemen
 
 **`Mechatronics Engineer`**
 
