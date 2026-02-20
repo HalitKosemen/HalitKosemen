@@ -6,19 +6,22 @@ I'm a Embedded Systems Engineer focused on STM32, low-level drivers, and real-ti
 Experienced in bare-metal C/C++, peripheral drivers (SPI, I2C, USART), control theory basics, and datasheet-driven development.
 Exploring ROS2, Gazebo simulation, and embedded Linux.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/halit-k%C3%B6semen-62b9992b4/">
-    <img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/HalitKosemen">
-    <img height="32" src="https://cdn.simpleicons.org/github/ffffff" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@ProjecTechx">
-    <img height="32" src="https://cdn.simpleicons.org/youtube/FF0000" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/halit-k%C3%B6semen-62b9992b4/">
+  <img align="left" width="26px"
+       src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+</a>
+
+<a href="https://github.com/HalitKosemen">
+  <img align="left" width="26px"
+       src="https://cdn.simpleicons.org/github/ffffff" />
+</a>
+
+<a href="https://www.youtube.com/@ProjecTechx">
+  <img align="left" width="26px"
+       src="https://cdn.simpleicons.org/youtube/FF0000" />
+</a>
+
+<br />
 
 ---
 
