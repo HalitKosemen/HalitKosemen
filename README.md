@@ -3,8 +3,8 @@
 **`Mechatronics Engineer`**
 
 I'm a Embedded Systems Engineer focused on STM32, low-level drivers, and real-time systems. 
-Experienced in bare-metal C/C++, peripheral drivers (SPI, I2C, USART), control theory basics, and datasheet-driven development.
-Exploring ROS2, Gazebo simulation, and embedded Linux.
+Experienced in bare-metal C/C++, peripheral drivers (SPI, I2C, USART , FREERTOS), control theory basics, and datasheet-driven development.
+Exploring PCB design, signal integrity, and high-speed digital interfaces, focusing on layout practices, impedance control, grounding, and EMI-aware embedded system design.
 
 <a href="https://www.linkedin.com/in/halit-k%C3%B6semen-62b9992b4/">
   <img align="left" width="26px"
