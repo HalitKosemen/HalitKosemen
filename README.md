@@ -37,6 +37,8 @@ Exploring PCB design, signal integrity, and high-speed digital interfaces, focus
 ![PCB Design](https://img.shields.io/badge/PCB_Design-2E8B57?style=for-the-badge&logo=probot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-000000?style=for-the-badge&logo=altium-designer&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 #
 
