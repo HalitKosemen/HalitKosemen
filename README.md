@@ -33,15 +33,9 @@ Exploring PCB design, signal integrity, and high-speed digital interfaces, focus
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-2E8B57?style=for-the-badge&logo=probot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium-000000?style=for-the-badge&logo=altium-designer&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium_Designer-A71C1C?style=for-the-badge&logo=altium&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-
 #
 
 ### 🔭 What I’m Currently Working On
