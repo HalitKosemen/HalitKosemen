@@ -41,7 +41,7 @@ Exploring PCB design, signal integrity, and high-speed digital interfaces, focus
 ### 🔭 What I’m Currently Working On
 - 🔧 Writing **bare-metal STM32 drivers** using register-level programming
 - 📘 Deepening understanding of **microcontroller internals** through datasheet-driven development
-- 🖥️ Learning **KiCad** for schematic capture and PCB design
+- 🖥️ Learning **Altium Designer** for schematic capture and PCB design
 - 🐧 Exploring **Embedded Linux fundamentals** and system documentation
 - 🧠 Strengthening **control systems basics** and hardware–software integration
 
